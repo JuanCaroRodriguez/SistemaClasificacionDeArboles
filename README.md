@@ -71,26 +71,10 @@ Esto abre la posibilidad de desarrollar en el futuro aplicaciones como:
 ## 👨‍💻 Autores
 
 **Juan Camilo Caro Rodríguez**
-
-Desarrollador enfocado en:
-
-* Inteligencia Artificial
-* Machine Learning
-* Visión por Computadora
-* Desarrollo de Software
-
 GitHub:
 https://github.com/JuanCaroRodriguez
 
 **Wendy Buelvas España**
-
-Desarrollador enfocado en:
-
-* Inteligencia Artificial
-* Machine Learning
-* Visión por Computadora
-* Desarrollo de Software
-
 GitHub:
 https://github.com/WendyBuelvas
 

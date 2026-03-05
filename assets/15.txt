@@ -1,0 +1,5 @@
+Nombre cientifico: Musa paradisíaca
+Nombre comun: Platanera
+Tiene frutos: Si
+Tiene flores: Si
+Dato curioso: La Platanera es una de las plantas con flores más grandes del mundo y produce racimos de plátanos, una fruta rica en potasio y otros nutrientes.

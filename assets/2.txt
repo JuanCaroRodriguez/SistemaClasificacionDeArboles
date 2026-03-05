@@ -1,0 +1,5 @@
+Nombre cientifico: Azadirachta indica
+Nombre comun: Neen
+Tiene frutos: Si
+Tiene flores: Si
+Dato curioso: El Neen, tambien conocido como Arbol de Nim, es valorado por sus propiedades medicinales y su capacidad para repeler insectos.

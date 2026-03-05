@@ -1,0 +1,64 @@
+name: tree_identify
+description: "A new Flutter project."
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+    
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.2
+  image_picker: ^0.8.5+3
+  tflite_flutter: ^0.10.4
+  image: ^4.1.3
+  pdf: ^3.6.5
+  printing: ^5.10.1
+  flutter_lints: ^2.0.0
+  permission_handler: ^10.4.0
+  path_provider: ^2.0.11
+  
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/0.txt
+    - assets/1.txt
+    - assets/2.txt
+    - assets/3.txt
+    - assets/4.txt
+    - assets/5.txt
+    - assets/6.txt
+    - assets/7.txt
+    - assets/8.txt
+    - assets/9.txt
+    - assets/10.txt
+    - assets/11.txt
+    - assets/12.txt
+    - assets/13.txt
+    - assets/14.txt
+    - assets/15.txt
+    - assets/16.txt
+    - assets/17.txt
+    - assets/18.txt
+    - assets/19.txt
+    - assets/20.txt
+    - assets/21.txt
+    - assets/22.txt
+    - assets/23.txt
+    - assets/24.txt
+  fonts:
+    - family: SofiaSans
+      fonts:
+        - asset: fonts/SofiaSansSemiCondensed-Regular.ttf

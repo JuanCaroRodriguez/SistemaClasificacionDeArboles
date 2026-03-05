@@ -1,0 +1,5 @@
+Nombre cientifico: Averrhoa carambola
+Nombre comun: Árbol de torombolo
+Tiene frutos: Si
+Tiene flores: Si
+Dato curioso: El Árbol de torombolo produce la fruta conocida como carambola, la cual tiene una forma distintiva de estrella cuando se corta en rodajas.

@@ -1,0 +1,5 @@
+Nombre cientifico: Mangifera indica
+Nombre comun: Arbol de mango
+Tiene frutos: Si
+Tiene flores: Si
+Dato curioso: El Árbol de mango es conocido por producir los deliciosos mangos, una fruta tropical muy apreciada por su sabor dulce y suculento.

@@ -1,0 +1,5 @@
+Nombre cientifico: Melicoccus bijugatus jacq
+Nombre comun: Mamoncillo
+Tiene frutos: Si
+Tiene flores: Si
+Dato curioso: El Mamoncillo es una fruta pequeña y redonda, similar al lichi, con una cáscara dura y una pulpa dulce y jugosa.

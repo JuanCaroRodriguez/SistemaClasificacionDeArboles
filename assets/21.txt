@@ -1,0 +1,5 @@
+Nombre cientifico: Swinglea glutinosa
+Nombre comun: Limoncillo
+Tiene frutos: Si
+Tiene flores: Si
+Dato curioso: El Limoncillo es un árbol de la familia de las Rutáceas que produce frutos comestibles similares a los limones, pero de menor tamaño y sabor más suave.

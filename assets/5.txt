@@ -1,0 +1,5 @@
+Nombre cientifico: Conocarpus erectus
+Nombre comun: Mangle boton
+Tiene frutos: No
+Tiene flores: Si
+Dato curioso: El Mangle boton es una especie de mangle que se encuentra en zonas costeras y es conocido por su capacidad para tolerar la salinidad del agua marina.

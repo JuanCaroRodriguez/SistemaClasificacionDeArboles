@@ -1,0 +1,5 @@
+Nombre cientifico: Plumeria pudica
+Nombre comun: Floron
+Tiene frutos: No
+Tiene flores: Si
+Dato curioso: El Floron es un árbol tropical conocido por sus hermosas y fragantes flores, que se utilizan comúnmente en la fabricación de guirnaldas y collares en algunas culturas.

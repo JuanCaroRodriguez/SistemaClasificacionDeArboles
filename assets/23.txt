@@ -1,0 +1,5 @@
+Nombre cientifico: Thevetia peruviana
+Nombre comun: Adelfa amarilla
+Tiene frutos: Si
+Tiene flores: Si
+Dato curioso: La Adelfa amarilla es una planta ornamental que produce flores amarillas llamativas, pero todas sus partes son altamente tóxicas si se ingieren.

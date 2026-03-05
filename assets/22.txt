@@ -1,0 +1,5 @@
+Nombre cientifico: Terminamos catappa
+Nombre comun: Almendro
+Tiene frutos: Si
+Tiene flores: Si
+Dato curioso: El Almendro produce frutos conocidos como almendras, que son consumidas crudas, tostadas o utilizadas en la preparación de una variedad de platos y dulces.

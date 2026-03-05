@@ -1,0 +1,5 @@
+Nombre cientifico: Morisonia Odoratissims
+Nombre comun: Olivo
+Tiene frutos: Si
+Tiene flores: Si
+Dato curioso: El Olivo es un árbol venerado por su importancia histórica, cultural y religiosa en muchas partes del mundo. Sus frutos, las aceitunas, son ampliamente utilizados en la gastronomía mediterránea.

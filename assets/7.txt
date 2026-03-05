@@ -1,0 +1,5 @@
+Nombre cientifico: Gemelina arbolea
+Nombre comun: Melina
+Tiene frutos: Si
+Tiene flores: Si
+Dato curioso: La Melina es un árbol de rápido crecimiento que se utiliza comúnmente en plantaciones forestales para la producción de madera.

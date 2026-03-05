@@ -1,0 +1,5 @@
+Nombre cientifico: Junglans Regia
+Nombre comun: Nogal
+Tiene frutos: Si
+Tiene flores: Si
+Dato curioso: El Nogal es conocido por sus deliciosas nueces, que son una fuente rica en ácidos grasos omega-3 y otros nutrientes.

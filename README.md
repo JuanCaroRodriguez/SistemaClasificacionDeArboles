@@ -17,7 +17,7 @@ El objetivo es aprovechar el potencial del **aprendizaje automático y la inteli
 
 ---
 
-## 🌱 Motivación
+##  Motivación
 
 Las ciudades cuentan con una gran variedad de especies vegetales que cumplen un papel fundamental en el **equilibrio ecológico, la regulación climática y la calidad del aire**. Sin embargo, la identificación manual de especies puede ser compleja y requiere conocimientos especializados.
 
